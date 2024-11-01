@@ -1,0 +1,6 @@
+id: geyserdebugginghelper
+name: GeyserDebuggingHelper
+main: net.camotoy.geyserdebugginghelper.GeyserDebuggingHelper
+api: 2.4.4
+version: 1.0.0
+authors: [ExampleAuthor]
